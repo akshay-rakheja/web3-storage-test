@@ -51,7 +51,10 @@
   ],
   "dependencies": {
     "commander": "^6.2.1",
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "minimist": "^1.2.6",
+    "ts-node": "^10.8.2",
+    "web3.storage": "^4.3.0"
   },
   "liveLink": {
     "ignoreMasks": [
